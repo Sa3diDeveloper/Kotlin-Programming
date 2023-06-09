@@ -18,9 +18,6 @@ fun main(){
             temp2 = sum
         }
 
-
-
-
 }
 
 
