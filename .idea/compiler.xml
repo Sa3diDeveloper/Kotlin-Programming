@@ -11,6 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Kotlin Programming" target="17" />
+      <module name="KotlinProgramming" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
