@@ -1,6 +1,6 @@
 package OOP
 
-class Person3(val name: String) {
+class Person3(val name: String="me") {
 
     constructor(name: String, age: Int) : this(name) {
         // This code is executed after the primary constructor is called.
